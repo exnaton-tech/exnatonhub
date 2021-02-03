@@ -114,7 +114,7 @@
         {
          "columns":16,
          "firstgid":1,
-         "image":"tilesets_deviant_milkian_1.png",
+         "image":"tilesets_deviant_milkian.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -839,7 +839,7 @@
         {
          "columns":8,
          "firstgid":257,
-         "image":"floortileset.png",
+         "image":"tileset_floor.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -857,6 +857,32 @@
                          "value":true
                         }]
                 }],
+         "tilewidth":32
+        }, 
+        {
+         "columns":18,
+         "firstgid":321,
+         "image":"tileset_cuterpg.png",
+         "imageheight":176,
+         "imagewidth":288,
+         "margin":0,
+         "name":"Cute RPG",
+         "spacing":0,
+         "tilecount":198,
+         "tileheight":16,
+         "tilewidth":16
+        }, 
+        {
+         "columns":18,
+         "firstgid":519,
+         "image":"tilesets_bytewerk.png",
+         "imageheight":4256,
+         "imagewidth":576,
+         "margin":0,
+         "name":"Bytewerk (RC3)",
+         "spacing":0,
+         "tilecount":2394,
+         "tileheight":32,
          "tilewidth":32
         }],
  "tilewidth":32,
