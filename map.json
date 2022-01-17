@@ -1844,7 +1844,7 @@
         {
          "columns":25,
          "firstgid":37091,
-         "image":"..\/tilemap_mountain_hut\/mapmaking\/tilesets\/gather_chairs_1.3.png",
+         "image":"tilesets\/mapmaking\/gather_chairs_1.3.png",
          "imageheight":1024,
          "imagewidth":800,
          "margin":0,
@@ -1857,7 +1857,7 @@
         {
          "columns":90,
          "firstgid":37891,
-         "image":"..\/tilemap_mountain_hut\/mapmaking\/tilesets\/gather_tables_2.1.png",
+         "image":"tilesets\/mapmaking\/gather_tables_2.1.png",
          "imageheight":3200,
          "imagewidth":2880,
          "margin":0,
@@ -1870,7 +1870,7 @@
         {
          "columns":40,
          "firstgid":46891,
-         "image":"..\/tilemap_mountain_hut\/mapmaking\/tilesets\/gather_floors_1.5.png",
+         "image":"tilesets\/mapmaking\/gather_floors_1.5.png",
          "imageheight":4352,
          "imagewidth":1280,
          "margin":0,
@@ -5022,7 +5022,7 @@
         {
          "columns":36,
          "firstgid":52331,
-         "image":"..\/tilemap_mountain_hut\/mapmaking\/tilesets\/gather_decoration_1.21.png",
+         "image":"tilesets\/mapmaking\/gather_decoration_1.21.png",
          "imageheight":7072,
          "imagewidth":1152,
          "margin":0,
