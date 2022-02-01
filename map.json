@@ -254,7 +254,7 @@
         {
          "columns":16,
          "firstgid":1,
-         "image":"tilesets_deviant_milkian.png",
+         "image":"tilesets\/tilesets_deviant_milkian.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -979,7 +979,7 @@
         {
          "columns":8,
          "firstgid":257,
-         "image":"tileset_floor.png",
+         "image":"tilesets\/tileset_floor.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -1029,7 +1029,7 @@
         {
          "columns":18,
          "firstgid":321,
-         "image":"tilesets_bytewerk.png",
+         "image":"tilesets\/tilesets_bytewerk.png",
          "imageheight":4256,
          "imagewidth":576,
          "margin":0,
